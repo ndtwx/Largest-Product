@@ -52,3 +52,7 @@ raise ValueError("digits input must only contain digits")
 Bonus Task:
 
 To take in input from the user for the string to be assessed as well as length.
+![Error Output](https://github.com/ndtwx/Largest-Product/assets/90675009/ec6d8dcf-b1d2-4e49-b4e6-1d5492962137)
+![Correct Output](https://github.com/ndtwx/Largest-Product/assets/90675009/00643786-f5db-45f4-aa8d-893d0476c52b)
+
+
